@@ -1,0 +1,16 @@
+absl_py==2.1.0
+comet==3.1.0
+cycler==0.12.1
+groq==0.9.0
+matplotlib==3.8.3
+nltk==3.8.1
+numpy==2.1.0
+openai==1.41.0
+rouge_score==0.1.2
+sacrebleu==2.4.2
+scikit_learn==1.3.0
+setuptools==68.2.2
+six==1.16.0
+torch==2.1.2
+tqdm==4.66.1
+transformers==4.39.1
