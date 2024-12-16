@@ -1,0 +1,5 @@
+nltk>=3.2
+numpy
+matplotlib
+absl-py
+sacrebleu
